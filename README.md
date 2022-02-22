@@ -1,3 +1,4 @@
 # Projeto de Redes
- Codigos do projeto da cadeira de Redes Industrais, do curso de Engenharia de Controle e Automação - UFSM. O projeto tinha como objetivo criar e monitorar uma rede de comunicação de um sistema em malha fechada (sensor,atuador,controlador), atraves do protocolo de transmissão UDP e pacotes IP. No sistema criado foi utlizado um sensor RGB para a leitura de uma parede de cores, que através de um setpoint deferia ficar parado na cor selecionada. O motor para a movimentação do sensor foi um servo motor SG90, para controle do sistema foi utilizado 2 arduinos MEGA. O projeto possui 3 arquivos .py, um referente ao cliente da aplicação, outra ao do servidor, e uma ao servidor-cliente. 
+Projeto que realiza o controle em malha fechada de um servo motor através de leituras de cores feitas por um sensor RGB TCS 230. Para realizar a comunicação, os dispositivos da planta foram conectados em um barramento lógico virtual utilizando protocolo de transporte UDP, pacotes IP em broadcast e Ethernet.
+
 
