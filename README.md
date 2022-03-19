@@ -1,5 +1,5 @@
 # Projeto de Redes
-Projeto que realiza o controle em malha fechada de um servo motor através de leituras de cores feitas por um sensor RGB TCS 230. Para realizar a comunicação, os dispositivos da planta foram conectados em um barramento lógico virtual utilizando protocolo de transporte UDP, pacotes IP em broadcast e Ethernet. O projeto compriu todos os
+Projeto que realiza o controle em malha fechada de um servo motor através de leituras de cores feitas por um sensor RGB TCS 230. Para realizar a comunicação, os dispositivos da planta foram conectados em um barramento lógico virtual utilizando protocolo de transporte UDP, pacotes IP em broadcast e Ethernet. O projeto compriu todos os requisitos
 ## Materiais Utilizados
   - Arduino Mega 
   <div align ="center">
